@@ -17,6 +17,8 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd super-rentals`
 * `npm install`
+* `cp .example.env .env`
+* fill in `.env` file with all necessary tokens
 
 ## Running / Development
 
